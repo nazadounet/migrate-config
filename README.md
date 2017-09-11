@@ -1,11 +1,6 @@
-
-<!doctype html>
 <html lang="fr">
 <head>
   <meta charset="utf-8">
-  <title>Titre de la page</title>
-  <link rel="stylesheet" href="style.css">
-  <script src="script.js"></script>
 </head>
 	<body>
 				<h1>Update date : 11 septembre 2017</h1>
