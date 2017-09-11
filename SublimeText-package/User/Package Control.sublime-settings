@@ -1,0 +1,21 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"auto-save",
+		"Emmet",
+		"Material Theme",
+		"Package Control",
+		"PackageResourceViewer",
+		"PHP Companion",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jshint",
+		"SublimeLinter-json",
+		"SublimeLinter-php"
+	]
+}

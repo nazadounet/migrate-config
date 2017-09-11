@@ -1,0 +1,45 @@
+{
+	"always_show_minimap_viewport": true,
+	"auto_complete_selector": "source - comment, meta.tag - punctuation.definition.tag.begin, text.haml",
+	"auto_complete_triggers":
+	[
+		{
+			"characters": "<",
+			"selector": "text.html"
+		},
+		{
+			"characters": "/",
+			"selector": "string.quoted.double.html,string.quoted.single.html, source.css"
+		}
+	],
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"font_face": "Source Code Pro",
+	"font_options":
+	[
+		"gray_antialias",
+		"subpixel_antialias"
+	],
+	"font_size": 19,
+	"gutterForeground": "#fff",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 6,
+	"line_padding_top": 6,
+	"material_theme_accent_cyan": true,
+	"material_theme_big_fileicons": true,
+	"material_theme_bold_tab": true,
+	"material_theme_bullet_tree_indicator": true,
+	"material_theme_disable_folder_animation": true,
+	"material_theme_tabs_separator": true,
+	"overlay_scroll_bars": "enabled",
+	"save_on_focus_lost": true,
+	"theme": "Material-Theme.sublime-theme"
+}

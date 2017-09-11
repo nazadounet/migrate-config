@@ -1,0 +1,16 @@
+[
+{ "keys": ["super+&"], "command": "toggle_side_bar" },
+
+{ "keys": ["super+d"], "command": "duplicate_line" },
+
+{ "keys": ["super+up"], "command": "swap_line_up" },
+
+{ "keys": ["super+down"], "command": "swap_line_down" },
+
+{ "keys": ["super+p"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true} },
+
+{"keys": ["alt+shift+f"], "command": "reindent", "args": {"single_line": false}},
+
+{ "keys": ["super+f"], "command": "show_panel", "args": {"panel": "replace", "reverse": false} },
+
+]
