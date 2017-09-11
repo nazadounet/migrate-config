@@ -18,5 +18,11 @@
 					 <li>node-gyp@3.6.2</li>
 					 <li>npm@5.3.0</li>
 				</ul>
+				<h1>Applications</h1>
+				<p><strong>Iterm and oh-my-SHZ theme</strong></p>
+				<ul>
+					<li>Theme :  <a href="https://github.com/bhilburn/powerlevel9k">Powerlevel9</a></li>
+				</ul>
+				
 	</body>
 </html>
