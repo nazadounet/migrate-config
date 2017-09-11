@@ -23,6 +23,5 @@
 				<ul>
 					<li>Theme :  <a href="https://github.com/bhilburn/powerlevel9k">Powerlevel9</a></li>
 				</ul>
-				
 	</body>
 </html>
